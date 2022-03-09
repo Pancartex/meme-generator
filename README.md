@@ -1,1 +1,1 @@
-random meme generator app in REACT
+random meme generator app in React
