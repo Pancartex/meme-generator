@@ -12,7 +12,7 @@ body {
   height: 100vh;
   display: flex;
   justify-content: center;
-  background: #e5e5e5;
+  background: url(https://www.meme-arsenal.com/memes/908ec994ffc110081a7725e978452b17.jpg);
   margin-top: 100px;
 }
 
@@ -26,8 +26,9 @@ main {
 }
 
 .app-container {
-  max-width: 600px;
+  width: 600px;
   background: #fff;
+  border-radius: 10px;
 }
 
 .header {
@@ -37,6 +38,7 @@ main {
   background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
   color: white;
   padding: 20px;
+  border-radius: 8px 8px 0 0;
 }
 
 .header--image {
